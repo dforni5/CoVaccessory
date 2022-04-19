@@ -1,4 +1,4 @@
-# Homology-based classification of accessory proteins in coronavirus genomes uncovers extremely dynamic evolution of gene content”
+# Homology-based classification of accessory proteins in coronavirus genomes uncovers extremely dynamic evolution of gene content
 
 
 This repository contains supplementary material for the following paper: “ Homology-based classification of accessory proteins in coronavirus genomes uncovers extremely dynamic evolution of gene content” by Forni et al.
